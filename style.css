@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.a {
+    text-align: center;
+}
+
+a {
+    padding: 20px;
+}
+
+.q {
+    border-left: 10px dotted black;
+}
+footer {
+    background-color: black;
+}
+
+footer p {
+    background-color: white;
+    border: 10px solid black;
+    padding: 0px;
+}
+
+.e {
+    border-bottom: 5px solid black !important;
+}
+
+.w {
+    border-top: 5px solid black !important;
+}
+
+.r {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
